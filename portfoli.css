@@ -1,0 +1,24 @@
+h3{
+    color: cyan;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+    h4{
+        color:lightpink;
+        background-color: dodgerblue;
+        border: 5px solid ;
+        margin: 20px 30px 40px 50px;
+        padding: 8px;
+    }
+    
+    h1{
+        background-color:paleturquoise;
+        text-align: center;
+    }
+    h2{
+       background-color:plum;
+        text-align: center;
+    }
