@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Management System</title>
+    <link rel="stylesheet" href="demo.css">
+</head>
+<body>
+    <header>
+        <h1>Real Estate Management System</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Listings</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="property-listings">
+            <h2>Property Listings</h2>
+            <p>Explore our latest property offerings.</p>
+            <div class="property-card">
+                <img src="home1.jpeg" alt="Beautiful Family Home">
+                <h3>Beautiful Family Home</h3>
+                <p>Location: New York, NY</p>
+                <p>Price: $500,000</p>
+                <button>View Details</button>
+            </div>
+
+            <div class="property-card">
+                <img src="home2.jpeg" alt="Modern Apartment">
+                <h3>Modern Apartment</h3>
+                <p>Location: Los Angeles, CA</p>
+                <p>Price: $750,000</p>
+                <button>View Details</button>
+            </div>
+
+            <div class="property-card">
+                <img src="home3.jpeg" alt="Luxury Villa">
+                <h3>Luxury Villa</h3>
+                <p>Location: Miami, FL</p>
+                <p>Price: $1,200,000</p>
+                <button>View Details</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Real Estate Management System
+            contact:9876654323,0465-2234356
+            email:realestate@gmail.com
+        </p>
+    </footer>
+</body>
+</html>
